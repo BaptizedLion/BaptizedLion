@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaptizedLion
-- 👀 I’m interested in web development utilizing HTML, CSS, and Javascript.
-- 🌱 I’m currently learning Java, JavaScript, CSS, and HTML.
+- 👀 I’m interested in web development utilizing HTML, CSS, JavaScript, and React.
+- 🌱 I’m currently learning Java, JavaScript, CSS, HTML and React.
 - 💞️ I’m looking to collaborate on HTML, CSS, and JavaScript-based programs
 - 📫 You can reach me via Discord, Discord: PokeThePanda, or my email: michael.mapanao@gmail.com
 
